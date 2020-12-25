@@ -1,0 +1,11 @@
+{
+    "name": "GHC 8.10.2 with HLS",
+    "dockerFile": "Dockerfile",
+    "runArgs": [],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "haskell.haskell"
+    ]
+}
